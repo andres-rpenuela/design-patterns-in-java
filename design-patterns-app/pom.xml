@@ -13,6 +13,7 @@
 
   <modules>
     <module>00-pattern-factory</module>
+    <module>01-pattern-abstract-factory</module>
   </modules>
 
   <properties>
